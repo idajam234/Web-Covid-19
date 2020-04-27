@@ -12,11 +12,6 @@ Requirements
 - PHP 7.2
 
 *******************
-Video Tutorial
-*******************
-- `Bad Practise Channel <https://www.youtube.com/playlist?list=PLfF5VnUxGQsQe2tK9fi6HIOMhMKdaGU_k>`_
-
-*******************
 Resource
 *******************
 - `Kawal Corona <https://kawalcorona.com/>`_
